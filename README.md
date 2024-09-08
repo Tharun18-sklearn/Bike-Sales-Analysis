@@ -4,4 +4,5 @@ This project focuses on analyzing bike sales data through a comprehensive dashbo
 **Pivot Chart Analysis**: Visual representation of sales metrics, trends, and performance.
 **Slicers**: Interactive filters for dynamic data segmentation and comparison.
 **Dashboard**: A user-friendly, visually appealing summary of key sales insights.
+
 This project helps in exploring and understanding bike sales patterns, enabling informed decision-making.
